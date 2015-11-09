@@ -1,0 +1,61 @@
+body {
+    background-color: #222;
+    margin: 0px;
+}
+
+article {
+    width: 960px;
+    margin: auto;
+    display: block;
+}
+
+img {
+    width: 350px;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    color: #ddd;
+    font-family: Futura, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+p {
+    font-family: Futura, sans-serif;
+    color: #ddd;
+}
+
+nav a {
+    text-decoration:none;
+    color: #ddd;
+}
+
+nav ul {
+    background-color: #650000;
+    width: 100%;
+    text-align: center;
+    padding: 0px;
+
+}
+
+nav li {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.6em;
+    font-family: Futura, sans-serif;
+    padding: 0px 15px;
+}
+
+footer {
+    height: 35px;
+    background-color: #650000;
+}
+
+
+
+
+
